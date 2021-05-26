@@ -1,4 +1,7 @@
 ### Hi there 👋
+
+<img src="https://i.imgur.com/rTZkf4K.gif" width="40%">
+
 [![Muhammed Faris's github stats](https://github-readme-stats.vercel.app/api?username=faris404&count_private=true&theme=gotham&showicons=true)](https://github.com/faris404/github-readme-stats)
 
 
