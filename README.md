@@ -39,11 +39,11 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 ```text
-Python       7 hrs 59 mins   ██████████████████████▒░░   88.79 % 
-Dart         26 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.82 % 
-JavaScript   12 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
-JSON         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
-SQL          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+Python       9 hrs           ███████████████████▓░░░░░   78.58 % 
+HTML         37 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.41 % 
+TypeScript   35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.11 % 
+JavaScript   29 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 % 
+Dart         26 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 % 
 ```
 <!--END_SECTION:waka-->
 
