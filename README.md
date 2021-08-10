@@ -10,10 +10,6 @@
     <img src="https://i.imgur.com/rTZkf4K.gif" width="40%">   <img src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" width="40%">
     
 
-
-[![Muhammed Faris's github stats](https://github-readme-stats.vercel.app/api?username=faris404&count_private=true&theme=gotham&showicons=true)](https://github.com/faris404/github-readme-stats)
-
-
 <div align="center">
 <p align="center">Let's connect!</p>
 <a href="https://www.linkedin.com/in/faris404/">
@@ -23,9 +19,15 @@
     <img src="https://img.shields.io/badge/stackoverflow-%23ef8236.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/_faris404/">
-    <img src="https://img.shields.io/badge/Instagram-%238a3ab9.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-%238a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 </div>
+
+
+[![Muhammed Faris's github stats](https://github-readme-stats.vercel.app/api?username=faris404&count_private=true&theme=gotham&showicons=true)](https://github.com/faris404/github-readme-stats)
+
+
+
 
 ### Languages & Tools
 
