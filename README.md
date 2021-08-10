@@ -22,6 +22,9 @@
 <a href="https://stackoverflow.com/users/14280980/faris404?tab=profile/">
     <img src="https://img.shields.io/badge/stackoverflow-%23ef8236.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
 </a>
+<a href="https://www.instagram.com/_faris404/">
+    <img src="https://img.shields.io/badge/Instagram-%238a3ab9.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
 </div>
 
 ### Languages & Tools
