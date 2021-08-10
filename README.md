@@ -7,7 +7,7 @@
 - ⚡ Fun fact: Love Coding, Coffee, Music and Chess
 
 
-    <img src="https://i.imgur.com/rTZkf4K.gif" width="40%"> <img src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" width="40%">
+    <img src="https://i.imgur.com/rTZkf4K.gif" width="40%">                 <img src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" width="40%">
     
 
 
