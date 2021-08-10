@@ -3,7 +3,7 @@
 - 🔭 I’m currently working at xanthon e-solutions
 - 🌱 I’m currently learning fastapi and new python stuff
 - 👯 I’m looking to collaborate on open source project
-- 💬 Ask me about coding and chess
+- 💬 Ask me about python, javascript, mysql and chess :lol:
 - ⚡ Fun fact: Love Coding, Coffee and Chess
 
 
