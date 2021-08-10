@@ -11,17 +11,18 @@
 
     
 
-<div>
-<h6 >Let's connect!</h6>
+<div align="right" >
+
 <a href="https://www.linkedin.com/in/faris404/">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://stackoverflow.com/users/14280980/faris404?tab=profile/">
-    <img src="https://img.shields.io/badge/stackoverflow-%23ef8236.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="16.5%"/>
+</a><br/>
+
 <a href="https://www.instagram.com/_faris404/">
-    <img src="https://img.shields.io/badge/Instagram-%238a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/Instagram-%238a3ab9.svg?&style=for-the-badge&logo=instagram&logoColor=white" width="16.5%" />
+</a><br/>
+<a href="https://stackoverflow.com/users/14280980/faris404?tab=profile/">
+    <img src="https://img.shields.io/badge/stackoverflow-%23ef8236.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white"  height ="19%"/>
+</a><br/>
 </div>
 
 
