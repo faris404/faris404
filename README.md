@@ -7,10 +7,10 @@
 - ⚡ Fun fact: Love Coding, Coffee, Music and Chess
 
 
-    <img src="https://i.imgur.com/rTZkf4K.gif" width="40%">   <img src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" width="40%">
+    <!--<img src="https://i.imgur.com/rTZkf4K.gif" width="40%">  --> <img src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" width="40%">
     
 
-<div align="center">
+<div>
 <p align="center">Let's connect!</p>
 <a href="https://www.linkedin.com/in/faris404/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
