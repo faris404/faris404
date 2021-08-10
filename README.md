@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img align="right" src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" width="40%">
+<img align="right" src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" width="30%">
+
 - 🔭 I’m currently working at xanthon e-solutions
 - 🌱 I’m currently learning fastapi and new python stuff
 - 👯 I’m looking to collaborate on open source project          
@@ -7,7 +8,7 @@
 - ⚡ Fun fact: Love Coding, Coffee, Music and Chess
 
 
-    <!--<img src="https://i.imgur.com/rTZkf4K.gif" width="40%">  --> 
+
     
 
 <div>
