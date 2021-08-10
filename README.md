@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working at xanthon e-solutions
 - 🌱 I’m currently learning fastapi and new python stuff
-- 👯 I’m looking to collaborate on open source project
+- 👯 I’m looking to collaborate on open source project            <img src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" width="40%">
 - 💬 Ask me about python, javascript, mysql and chess :joy:
 - ⚡ Fun fact: Love Coding, Coffee, Music and Chess
 
