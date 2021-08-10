@@ -1,19 +1,11 @@
 ### Hi there 👋
 
-<!--
-**faris404/faris404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working at xanthon e-solutions
-- 🌱 I’m currently learning flutter
+- 🌱 I’m currently learning fastapi
 - 👯 I’m looking to collaborate on open source project
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💬 Ask me about coding and chess
+- ⚡ Fun fact: Love Coding, Coffee and Chess
+
 
 <img src="https://i.imgur.com/rTZkf4K.gif" width="40%">
 
