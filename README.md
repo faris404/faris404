@@ -1,13 +1,17 @@
 ### Hi there 👋
-
+<div style="display:flex">
+    <div>
 - 🔭 I’m currently working at xanthon e-solutions
 - 🌱 I’m currently learning fastapi and new python stuff
 - 👯 I’m looking to collaborate on open source project
 - 💬 Ask me about python, javascript, mysql and chess :joy:
-- ⚡ Fun fact: Love Coding, Coffee and Chess
+- ⚡ Fun fact: Love Coding, Coffee, Music and Chess
+    </div>
+    <div>
 
-
-<img src="https://i.imgur.com/rTZkf4K.gif" width="40%">
+    <img src="https://i.imgur.com/rTZkf4K.gif" width="40%">
+    </div>
+    </div>
 <img src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" width="40%">
 
 [![Muhammed Faris's github stats](https://github-readme-stats.vercel.app/api?username=faris404&count_private=true&theme=gotham&showicons=true)](https://github.com/faris404/github-readme-stats)
