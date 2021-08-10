@@ -8,7 +8,7 @@
 
 
 <img src="https://i.imgur.com/rTZkf4K.gif" width="40%">
-<img src="https://media.giphy.com/media/hR6Q01jCXOr31wctJw/giphy.gif" width="40%">
+<img src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" width="40%">
 
 [![Muhammed Faris's github stats](https://github-readme-stats.vercel.app/api?username=faris404&count_private=true&theme=gotham&showicons=true)](https://github.com/faris404/github-readme-stats)
 
