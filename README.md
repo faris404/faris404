@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning fastapi and new python stuff
 - 👯 I’m looking to collaborate on open source project          
 - 💬 Ask me about python, javascript, mysql and chess :joy:
-- ⚡ Fun fact: Love Coding, Coffee, Music and Chess
+- ⚡ Fun fact: Love Coding, Coffee, Chess and Music
 
 
 
