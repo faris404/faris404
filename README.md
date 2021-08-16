@@ -10,7 +10,7 @@
 
 
     
-### Let's Connect
+### Let's Connect :speech_balloon:
 <div style="text-align:center;" >
 
 <a href="https://www.linkedin.com/in/faris404/" >
