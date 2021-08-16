@@ -1,6 +1,6 @@
 ### Hi there 👋
-<img align="right" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width="40%">
-<img align="right" src="https://c.tenor.com/41I-iMyClCgAAAAd/programmer-programming.gif" width="40%">
+
+<img align="right" src="coding.gif" width="35%" >
 
 - 🔭 I’m currently working at xanthon e-solutions
 - 🌱 I’m currently learning fastapi and new python stuff
