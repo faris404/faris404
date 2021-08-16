@@ -25,7 +25,7 @@
 </a>
 </div>
 
-### Stats
+### Stats :hourglass_flowing_sand:
 [![Muhammed Faris's github stats](https://github-readme-stats.vercel.app/api?username=faris404&count_private=true&theme=gotham&showicons=true)](https://github.com/faris404/github-readme-stats)
 
 
@@ -42,7 +42,7 @@ JavaScript   20 mins         ▒░░░░░░░░░░░░░░░░
 
 
 
-### Languages & Tools
+### Languages & Tools :hammer_and_wrench:
 
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img width=24px src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
