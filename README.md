@@ -1,5 +1,6 @@
 ### Hi there 👋
-<img align="right" src="https://c.tenor.com/JHQi03Q3pLAAAAAC/jim-carrey-bruce-almighty.gif" width="40%">
+<img align="right" src="https://external-preview.redd.it/FuqGGUPh2r8D5y9joV5UzJLme-Q5KVUq-SQYaJrVOvE.gif?format=mp4&s=ff402255f420afbacbd330ae0cb998be8be05e31" width="40%">
+
 
 - 🔭 I’m currently working at xanthon e-solutions
 - 🌱 I’m currently learning fastapi and new python stuff
