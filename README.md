@@ -33,9 +33,9 @@
 
 <!--START_SECTION:waka-->
 ```text
-Python       5 hrs 20 mins   ████████████████▓░░░░░░░░   66.41 % 
-HTML         1 hr 22 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.06 % 
-TypeScript   1 hr 18 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
+Python       5 hrs 20 mins   ████████████████▒░░░░░░░░   65.66 % 
+HTML         1 hr 31 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.77 % 
+TypeScript   1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.05 % 
 Git Config   1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
 ```
 <!--END_SECTION:waka-->
