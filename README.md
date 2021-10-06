@@ -27,9 +27,13 @@
 </div>
 
 ### Stats :hourglass_flowing_sand:
-[![Muhammed Faris's github stats](https://github-readme-stats.vercel.app/api?username=faris404&count_private=true&theme=gotham&showicons=true)](https://github.com/faris404/github-readme-stats)
+[![github stats](https://github-readme-stats.vercel.app/api?username=faris404&count_private=true&theme=gotham&showicons=true)](https://github.com/faris404/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faris404&count_private=true&theme=dark)](https://github.com/faris404/github-readme-stats)
+
+
+
+
 
 <!--START_SECTION:waka-->
 ```text
