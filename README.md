@@ -2,12 +2,11 @@
 
 <img align="right" src="coding.gif" width="35%" >
 
-- 🔭 I’m currently working at xanthon e-solutions
-- 🌱 I’m currently learning fastapi and new python stuff
-- 👯 I’m looking to collaborate on open source project          
-- 💬 Ask me about python, javascript, mysql and chess :joy:
-- ⚡ Fun fact: Coding Coffee Chess
-
+- 🧑‍💻 Current Role: Data Engineer
+- 🌱 Learning: PySpark, Rust, and exploring new Python advancements
+- 👯 Looking to Collaborate On: Open-source projects related to data engineering and new technologies
+- 💬 Ask Me About: Python, JavaScript, MySQL, and chess 🧩
+- 😜 Fun Fact: Coding, Coffee, and Chess – my favorite trio!
 
 
     
