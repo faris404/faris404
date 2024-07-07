@@ -4,8 +4,8 @@
 
 - 🧑‍💻 Current Role: Data Engineer
 - 🌱 Learning: PySpark, Rust, and exploring new Python advancements
-- 👯 Looking to Collaborate On: Open-source projects related to data engineering and new technologies
-- 💬 Ask Me About: Python, JavaScript, MySQL, and chess 🧩
+- 👯 Looking to Collaborate On: Open-source projects related to DE and new kinds of stuff
+- 💬 Ask Me About: Python, Rust, SQL, and chess
 - 😜 Fun Fact: Coding, Coffee, and Chess – my favorite trio!
 
 
