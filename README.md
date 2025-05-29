@@ -3,11 +3,10 @@
 <img align="right" src="coding.gif" width="35%" >
 
 - 🧑‍💻 Current Role: Data Engineer
-- 🌱 Learning: PySpark, Rust, and exploring new Python advancements
-- 👯 Looking to Collaborate On: Open-source projects related to DE and new kinds of stuff
-- 💬 Ask Me About: Python, Rust, SQL, and chess
-- 😜 Fun Fact: Coding, Coffee, and Chess – my favorite trio!
-
+- 🌱 Learning: PySpark, Databricks, and all the new Python tricks 🐍
+- 🤝 Open to Collaborate On: Data Engineering projects, automation ideas, or anything quirky and useful
+- 💬 Ask Me About: Python, SQL, Kafka, Airflow, Docker, AWS, and how to keep pipelines alive on Fridays
+- 😜 Fun Fact: I once fixed a bug by doing nothing. Magic? Maybe.
 
     
 ### Let's Connect :speech_balloon:
